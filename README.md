@@ -1,6 +1,6 @@
 # login-registration-system
 
-A simple user authentication system built with using PHP and MariaDB.
+A full-stack user authentication system featuring login and registration, built with PHP and MariaDB. 
 
 Features
 - User login
